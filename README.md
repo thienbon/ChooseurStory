@@ -4,16 +4,17 @@ An interactive, AI-powered choose your own adventure game that creates dynamic, 
 
 # Installing
 
-1. Clone the repository:
+1. Clone the repository
 
 2. Install dependencies:
-
+```bash
 pip install -r requirements.txt
+```
 
 3. Set up your API keys(Freepik,Gemini):
-
+```bash
 cp .env.example .env
-
+```
 4. Run the application:
 ```bash
 python main.py
